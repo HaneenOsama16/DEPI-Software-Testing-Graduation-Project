@@ -1,15 +1,15 @@
-# 🟠 Sprint 2 – Database Testing
+# 🟣 Sprint 3 – API Testing
 
-## Database
-- Northwind Database
+## API
+- Trello REST API
 
 ## Objective
-Validate database integrity, verify SQL queries, and ensure data consistency.
+Validate API endpoints, HTTP methods, response codes, authentication, and response data.
 
 ## Artifacts
-- Database Test Cases
-- SQL Queries
-- Validation Report
+- Postman Collection
+- API Test Cases
+- Execution Report
 
 ## Project Files
 📁 Google Drive:

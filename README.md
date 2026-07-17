@@ -1,2 +1,23 @@
-# DEPI-Software-Testing-Graduation-Project
-A complete Software Testing portfolio project featuring Manual Testing (SauceDemo), Database Testing (Northwind), API Testing (Trello API), and Automation Testing with Selenium WebDriver.
+# 🔵 Sprint 4 – Automation Testing
+
+## Application
+- SauceDemo
+
+## Technologies
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
+
+## Modules
+- Login
+- Products
+- Cart
+- Checkout
+- Menu
+- Product Details
+
+## Objective
+Automate functional test cases using the Page Object Model (POM) design pattern.
+
+https://drive.google.com/drive/folders/1nPKaCnvkCDqKpGNE1-TzUBf5h56qw8qm?usp=drive_link
